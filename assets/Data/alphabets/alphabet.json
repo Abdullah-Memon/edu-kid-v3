@@ -1,0 +1,340 @@
+[
+  {
+    "letter": "ا",
+    "name": "الف",
+    "example": "انب",
+    "icon": "🥭",
+    "audio": "assets/Data/alphabets/audio/ا.wav"
+  },
+  {
+    "letter": "ب",
+    "name": "بي",
+    "example": "بدڪ",
+    "icon": "🦆",
+    "audio": "assets/Data/alphabets/audio/ب.wav"
+  },
+  {
+    "letter": "ٻ",
+    "name": "ٻي",
+    "example": "ٻڪري",
+    "icon": "🐐",
+    "audio": "assets/Data/alphabets/audio/ٻ.wav"
+  },
+  {
+    "letter": "ڀ",
+    "name": "ڀي",
+    "example": "ڀت",
+    "icon": "🧱",
+    "audio": "assets/Data/alphabets/audio/ڀ.wav"
+  },
+  {
+    "letter": "ت",
+    "name": "تي",
+    "example": "تارو",
+    "icon": "⭐",
+    "audio": "assets/Data/alphabets/audio/ت.wav"
+  },
+  {
+    "letter": "ٿ",
+    "name": "ٿي",
+    "example": "ٿيلهو",
+    "icon": "🎒",
+    "audio": "assets/Data/alphabets/audio/ٿ.wav"
+  },
+  {
+    "letter": "ٽ",
+    "name": "ٽي",
+    "example": "ٽوپي",
+    "icon": "🎩",
+    "audio": "assets/Data/alphabets/audio/ٽ.wav"
+  },
+  {
+    "letter": "ٺ",
+    "name": "ٺي",
+    "example": "ٺونٺ",
+    "icon": "💪",
+    "audio": "assets/Data/alphabets/audio/ٺ.wav"
+  },
+  {
+    "letter": "ث",
+    "name": "ثي",
+    "example": "ثواب",
+    "icon": "🙏",
+    "audio": "assets/Data/alphabets/audio/ث.wav"
+  },
+  {
+    "letter": "پ",
+    "name": "پي",
+    "example": "پکو",
+    "icon": "🪭",
+    "audio": "assets/Data/alphabets/audio/پ.wav"
+  },
+  {
+    "letter": "ج",
+    "name": "جي",
+    "example": "جتي",
+    "icon": "🥿",
+    "audio": "assets/Data/alphabets/audio/ج.wav"
+  },
+  {
+    "letter": "ڄ",
+    "name": "ڄي",
+    "example": "ڄڀ",
+    "icon":"👅",
+    "audio": "assets/Data/alphabets/audio/ڄ.wav"
+  },
+  {
+    "letter": "جهہ",
+    "name": "جھي",
+    "example": "جھرڪي",
+    "icon":"🐦",
+    "audio": "assets/Data/alphabets/audio/جهہ.wav"
+  },
+  {
+    "letter": "ڃ",
+    "name": "ڃي",
+    "example": "مڃ",
+    "icon":"🪢",
+    "audio": "assets/Data/alphabets/audio/ڃ.wav"
+  },
+  {
+    "letter": "چ",
+    "name": "چي",
+    "example": "چنڊ",
+    "icon": "🌙",
+    "audio": "assets/Data/alphabets/audio/چ.wav"
+  },
+  {
+    "letter": "ڇ",
+    "name": "ڇي",
+    "example": "ڇٽي",
+    "icon": "🏖️",
+    "audio": "assets/Data/alphabets/audio/ڇ.wav"
+  },
+  {
+    "letter": "ح",
+    "name": "حي",
+    "example": "حجم",
+    "icon": "💇",
+    "audio": "assets/Data/alphabets/audio/ح.wav"
+  },
+  {
+    "letter": "خ",
+    "name": "خي",
+    "example": "خچر",
+    "icon": "🫏",
+    "audio": "assets/Data/alphabets/audio/خ.wav"
+  },
+  {
+    "letter": "د",
+    "name": "دال",
+    "example": "در",
+    "icon": "🚪",
+    "audio": "assets/Data/alphabets/audio/د.wav"
+  },
+  {
+    "letter": "ڌ",
+    "name": "ڌال",
+    "example": "ڌوٻي",
+    "icon": "",
+    "audio": "assets/Data/alphabets/audio/ڌ.wav"
+  },
+  {
+    "letter": "ڏ",
+    "name": "ڏال",
+    "example": "ڏيڏر",
+    "audio": "assets/Data/alphabets/audio/ڏ.wav"
+  },
+  {
+    "letter": "ڊ",
+    "name": "ڊال",
+    "example": "ڊاک",
+    "audio": "assets/Data/alphabets/audio/ڊ.wav"
+  },
+  {
+    "letter": "ڍ",
+    "name": "ڍال",
+    "example": "ڍڳو",
+    "audio": "assets/Data/alphabets/audio/ڍ.wav"
+  },
+  {
+    "letter": "ذ",
+    "name": "ذال",
+    "example": "ذرو",
+    "audio": "assets/Data/alphabets/audio/ذ.wav"
+  },
+  {
+    "letter": "ر",
+    "name": "ري",
+    "example": "ريل",
+    "audio": "assets/Data/alphabets/audio/ر.wav"
+  },
+  {
+    "letter": "ڙ",
+    "name": "ڙي",
+    "example": "ماڙي",
+    "audio": "assets/Data/alphabets/audio/ڙ.wav"
+  },
+  {
+    "letter": "ز",
+    "name": "زي",
+    "example": "زنجير",
+    "audio": "assets/Data/alphabets/audio/ز.wav"
+  },
+  {
+    "letter": "س",
+    "name": "سين",
+    "example": "سيٽي",
+    "audio": "assets/Data/alphabets/audio/س.wav"
+  },
+  {
+    "letter": "ش",
+    "name": "شين",
+    "example": "شينهن",
+    "audio": "assets/Data/alphabets/audio/ش.wav"
+  },
+  {
+    "letter": "ص",
+    "name": "صاد",
+    "example": "صوف",
+    "audio": "assets/Data/alphabets/audio/ص.wav"
+  },
+  {
+    "letter": "ض",
+    "name": "ضاد",
+    "example": "ضعيف",
+    "audio": "assets/Data/alphabets/audio/ض.wav"
+  },
+  {
+    "letter": "ط",
+    "name": "طوي",
+    "example": "طوطو",
+    "audio": "assets/Data/alphabets/audio/ط.wav"
+  },
+  {
+    "letter": "ظ",
+    "name": "ظوي",
+    "example": "ظالم",
+    "audio": "assets/Data/alphabets/audio/ظ.wav"
+  },
+  {
+    "letter": "ع",
+    "name": "عين",
+    "example": "عينڪ",
+    "audio": "assets/Data/alphabets/audio/ع.wav"
+  },
+  {
+    "letter": "غ",
+    "name": "غين",
+    "example": "غاليچو",
+    "audio": "assets/Data/alphabets/audio/غ.wav"
+  },
+  {
+    "letter": "ف",
+    "name": "في",
+    "example": "فانوس",
+    "audio": "assets/Data/alphabets/audio/ف.wav"
+  },
+  {
+    "letter": "ڦ",
+    "name": "ڦي",
+    "example": "ڦيٿو",
+    "audio": "assets/Data/alphabets/audio/ڦ.wav"
+  },
+  {
+    "letter": "ق",
+    "name": "قاف",
+    "example": "قلم",
+    "audio": "assets/Data/alphabets/audio/ق.wav"
+  },
+  {
+    "letter": "ڪ",
+    "name": "ڪاف",
+    "example": "ڪتو",
+    "audio": "assets/Data/alphabets/audio/ڪ.wav"
+  },
+  {
+    "letter": "ک",
+    "name": "کي",
+    "example": "کٽ",
+    "audio": "assets/Data/alphabets/audio/ک.wav"
+  },
+  {
+    "letter": "گ",
+    "name": "گاف",
+    "example": "گڏھ",
+    "audio": "assets/Data/alphabets/audio/گ.wav"
+  },
+  {
+    "letter": "ڳ",
+    "name": "ڳي",
+    "example": "ڳئون",
+    "audio": "assets/Data/alphabets/audio/ڳ.wav"
+  },
+  {
+    "letter": "گهہ",
+    "name": "گھي",
+    "example": "گهوڙو",
+    "audio": "assets/Data/alphabets/audio/گهہ.wav"
+  },
+  {
+    "letter": "ڱ",
+    "name": "ڱي",
+    "example": "سڱ",
+    "audio": "assets/Data/alphabets/audio/ڱ.wav"
+  },
+  {
+    "letter": "ل",
+    "name": "لام",
+    "example": "لڪڻ",
+    "audio": "assets/Data/alphabets/audio/ل.wav"
+  },
+  {
+    "letter": "م",
+    "name": "ميم",
+    "example": "مس",
+    "audio": "assets/Data/alphabets/audio/م.wav"
+  },
+  {
+    "letter": "ن",
+    "name": "نون",
+    "example": "نٿ",
+    "audio": "assets/Data/alphabets/audio/ن.wav"
+  },
+  {
+    "letter": "ڻ",
+    "name": "ڻي",
+    "example": "وڻ",
+    "audio": "assets/Data/alphabets/audio/ڻ.wav"
+  },
+  {
+    "letter": "و",
+    "name": "واؤُ",
+    "example": "واڍو",
+    "audio": "assets/Data/alphabets/audio/و.wav"
+  },
+  {
+    "letter": "ه",
+    "name": "هي",
+    "example": "هڪڙو",
+    "audio": "assets/Data/alphabets/audio/ه.wav"
+  },
+  {
+    "letter": "ھ",
+    "name": "هي",
+    "example": "ھٿ",
+    "audio": "assets/Data/alphabets/audio/ھ.wav"
+  },
+  {
+    "letter": "ء",
+    "name": "همزو",
+    "example": "ائٽ",
+    "audio": "assets/Data/alphabets/audio/ئ.wav"
+  },
+  {
+    "letter": "ي",
+    "name": "يي",
+    "example": "يڪو",
+    "audio": "assets/Data/alphabets/audio/ي.wav"
+  }
+]

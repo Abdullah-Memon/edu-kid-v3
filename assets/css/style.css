@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "ambile";
+  src: url("../fonts/regular/ambile-regular.woff2") format("woff2"),
+    url("../fonts/regular/ambile-regular.woff") format("woff"),
+    url("../fonts/regular/ambile-regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "ambile-heading";
+  src: url("../fonts/heading/ambile-heading.woff2") format("woff2"),
+    url("../fonts/heading/ambile-heading.woff") format("woff"),
+    url("../fonts/heading/ambile-heading.ttf") format("truetype");
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: "ambile", sans-serif;
+    direction: rtl;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: "ambile-heading", sans-serif;
+    line-height: 2 !important;
+}
+
+/* Language Direction Classes */
+.ltr {
+    direction: ltr;
+}
+
+.rtl {
+    direction: rtl;
+}

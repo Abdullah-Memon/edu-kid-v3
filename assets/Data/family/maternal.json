@@ -1,0 +1,120 @@
+{
+  "title": "ماءُ جو خاندان - Maternal Lineage",
+  "icon": "🏛️",
+  "generations": [
+    {
+      "title": "تڙ نانو تڙناني - Great Great Grandparents (Maternal)",
+      "level": 4,
+      "members": [
+        {
+          "sindhi": "تڙنانو",
+          "english": "Great great grandfather (maternal)",
+          "type": "male",
+          "icon": "👴"
+        },
+        {
+          "sindhi": "تڙنانِي",
+          "english": "Great great grandmother (maternal)",
+          "type": "female",
+          "icon": "👵"
+        }
+      ]
+    },
+    {
+      "title": "پڙنانو پڙناني - Great Grandparents (Maternal)",
+      "level": 3,
+      "members": [
+        {
+          "sindhi": "پڙنانو",
+          "english": "Great grandfather (maternal)",
+          "type": "male",
+          "icon": "👴"
+        },
+        {
+          "sindhi": "پڙنانِي",
+          "english": "Great grandmother (maternal)",
+          "type": "female",
+          "icon": "👵"
+        }
+      ]
+    },
+    {
+      "title": "نانو ناني - Grandparents (Maternal)",
+      "level": 2,
+      "members": [
+        {
+          "sindhi": "نانو",
+          "english": "Grandfather (maternal)",
+          "type": "male",
+          "icon": "👴"
+        },
+        {
+          "sindhi": "نانِي",
+          "english": "Grandmother (maternal)",
+          "type": "female",
+          "icon": "👵"
+        }
+      ]
+    },
+    {
+      "title": "ماءُ ۽ ماما ماسِي - Mother & Maternal Aunts & Uncles",
+      "level": 1,
+      "members": [
+        {
+          "sindhi": "ماءُ",
+          "english": "Mother",
+          "type": "female",
+          "icon": "👩"
+        },
+        {
+          "sindhi": "مامو",
+          "english": "Maternal uncle",
+          "type": "male",
+          "icon": "👨"
+        },
+        {
+          "sindhi": "مامِي",
+          "english": "Maternal uncle's wife",
+          "type": "female",
+          "icon": "👩"
+        },
+        {
+          "sindhi": "ماروٽُ",
+          "english": "Mother's brother",
+          "type": "male",
+          "icon": "👨"
+        },
+        {
+          "sindhi": "ماروٽِ",
+          "english": "Mother's brother's wife",
+          "type": "female",
+          "icon": "👩"
+        },
+        {
+          "sindhi": "ماسِي",
+          "english": "Maternal aunt",
+          "type": "female",
+          "icon": "👩"
+        },
+        {
+          "sindhi": "ماسڙ",
+          "english": "Maternal aunt's husband",
+          "type": "male",
+          "icon": "👨"
+        },
+        {
+          "sindhi": "ماساتُ",
+          "english": "Mother's sister",
+          "type": "female",
+          "icon": "👩"
+        },
+        {
+          "sindhi": "ماساتِ",
+          "english": "Mother's sister's husband",
+          "type": "male",
+          "icon": "👨"
+        }
+      ]
+    }
+  ]
+}

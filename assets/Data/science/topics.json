@@ -1,0 +1,90 @@
+[
+    {
+        "id": "biology",
+        "title": "جیون سائنس",
+        "subtitle": "جانداروں جي دنیا",
+        "emoji": "🧬",
+        "color": "green",
+        "gradient": "from-green-400 to-emerald-600",
+        "description": "جاندار جيون جا راز ڳوليو - جانور، ٻوٽا ۽ سڀني جاندارن جي دنيا",
+        "difficulty": "Beginner",
+        "lessons": 5
+    },
+    {
+        "id": "plants",
+        "title": "ٻوٽن جي دنیا",
+        "subtitle": "ٻوٽن جو مطالعو",
+        "emoji": "🌱",
+        "color": "lime",
+        "gradient": "from-lime-400 to-green-600",
+        "description": "ٻوٽن جي حيرت انگيز دنيا - ڪيئن ٻوٽا وڌن ٿا ۽ کاڌو ٺاهين ٿا",
+        "difficulty": "Beginner",
+        "lessons": 5
+    },
+    {
+        "id": "humanBody",
+        "title": "انساني عضوہ",
+        "subtitle": "جسم جا حصا",
+        "emoji": "🫀",
+        "color": "red",
+        "gradient": "from-red-400 to-pink-600",
+        "description": "انساني جسم جا عجائبات - اعضاءَ ۽ انهن جا ڪم",
+        "difficulty": "Beginner",
+        "lessons": 4
+    },
+    {
+        "id": "weather",
+        "title": "موسمیات",
+        "subtitle": "موسم ۽ آبهوا",
+        "emoji": "🌦️",
+        "color": "blue",
+        "gradient": "from-blue-400 to-cyan-600",
+        "description": "موسم جون تبديليون ۽ قدرتي واقعا سمجھو",
+        "difficulty": "Beginner",
+        "lessons": 4
+    },
+    {
+        "id": "space",
+        "title": "خلائي علم",
+        "subtitle": "ستارن ۽ سيارن جي دنيا",
+        "emoji": "🚀",
+        "color": "indigo",
+        "gradient": "from-indigo-400 to-purple-600",
+        "description": "خلا جي سفر - ستارا، سيارا، چنڊ ۽ سج",
+        "difficulty": "Intermediate",
+        "lessons": 3
+    },
+    {
+        "id": "chemistry",
+        "title": "ڪیمیا",
+        "subtitle": "مادن جي سائنس",
+        "emoji": "⚗️",
+        "color": "purple",
+        "gradient": "from-purple-400 to-violet-600",
+        "description": "مادن جي خاصيتون، تبديليون ۽ رد عمل",
+        "difficulty": "Intermediate",
+        "lessons": 3
+    },
+    {
+        "id": "physics",
+        "title": "طبیعیات",
+        "subtitle": "طاقت ۽ توانائي",
+        "emoji": "⚡",
+        "color": "yellow",
+        "gradient": "from-yellow-400 to-orange-600",
+        "description": "توانائي، طاقت، حرڪت ۽ روشنيءَ جا قانون",
+        "difficulty": "Intermediate",
+        "lessons": 3
+    },
+    {
+        "id": "environment",
+        "title": "ماحولیات",
+        "subtitle": "فطرت جي بچاءُ",
+        "emoji": "🌍",
+        "color": "teal",
+        "gradient": "from-teal-400 to-green-600",
+        "description": "ماحوليات، آلودگي ۽ فطرت جو تحفظ",
+        "difficulty": "Beginner",
+        "lessons": 4
+    }
+]

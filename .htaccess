@@ -1,0 +1,213 @@
+# Apache .htaccess Configuration
+# Deployed at: https://edukid-v3.sindh.ai (Development Environment)
+
+# Security Headers - Prevent Search Engine Indexing (Development)
+<IfModule mod_headers.c>
+    Header set X-Robots-Tag "noindex, nofollow, noarchive"
+</IfModule>
+
+# Enable Rewrite Engine
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /edukid/
+    
+    # Force HTTPS (only for non-localhost environments)
+    RewriteCond %{HTTPS} off
+    RewriteCond %{HTTP_HOST} !^localhost [NC]
+    RewriteCond %{HTTP_HOST} !^127\.0\.0\.1 [NC]
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+    
+    # Block direct access to folders (except pages/learn-sindhi)
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteCond %{REQUEST_URI} !^/edukid/$
+    RewriteCond %{REQUEST_URI} !^/edukid/pages/learn-sindhi/?$
+    RewriteRule ^(.*)$ /edukid/404.php [L]
+    
+    # Block access to protected directories (except media files)
+    RewriteCond %{REQUEST_URI} !\.(wav|mp3|ogg|mp4|gif|jpg|jpeg|png)$ [NC]
+    RewriteRule ^(includes|components|assets/Data)/ /edukid/404.php [L,NC]
+    
+    # Remove .php extension
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME}\.php -f
+    RewriteRule ^(.*)$ $1.php [L]
+    
+    # Redirect index.php to root
+    RewriteCond %{THE_REQUEST} ^GET.*index\.php [NC]
+    RewriteRule (.*?)index\.php/*(.*) /$1$2 [R=301,NE,L]
+</IfModule>
+
+# Default Index File
+DirectoryIndex index.php index.html
+
+# Prevent Directory Listing
+Options -Indexes
+
+# Follow Symbolic Links
+Options +FollowSymLinks
+
+# Security Headers
+<IfModule mod_headers.c>
+    # Prevent clickjacking
+    Header set X-Frame-Options "SAMEORIGIN"
+    
+    # XSS Protection
+    Header set X-XSS-Protection "1; mode=block"
+    
+    # Prevent MIME type sniffing
+    Header set X-Content-Type-Options "nosniff"
+    
+    # Referrer Policy
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# Protect Sensitive Files
+<FilesMatch "\.(env|log|ini|sh|sql|md|json|git|gitignore)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Deny access to hidden files
+<FilesMatch "^\.">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Enable Compression
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
+</IfModule>
+
+# Set UTF-8 Encoding
+AddDefaultCharset UTF-8
+
+# Browser Caching
+<IfModule mod_expires.c>
+    ExpiresActive On
+    
+    # Images
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/webp "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+    
+    # CSS and JavaScript
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+    
+    # Fonts
+    ExpiresByType font/ttf "access plus 1 year"
+    ExpiresByType font/woff "access plus 1 year"
+    ExpiresByType font/woff2 "access plus 1 year"
+    
+    # Media
+    ExpiresByType audio/mpeg "access plus 1 month"
+    ExpiresByType video/mp4 "access plus 1 month"
+    
+    # HTML
+    ExpiresByType text/html "access plus 0 seconds"
+</IfModule>
+
+# Security Headers
+<IfModule mod_headers.c>
+    # Prevent clickjacking
+    Header set X-Frame-Options "SAMEORIGIN"
+    
+    # Prevent MIME type sniffing
+    Header set X-Content-Type-Options "nosniff"
+    
+    # Enable XSS protection
+    Header set X-XSS-Protection "1; mode=block"
+    
+    # Referrer Policy
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# PHP Settings
+<IfModule mod_php7.c>
+    # Increase upload size
+    php_value upload_max_filesize 10M
+    php_value post_max_size 10M
+    
+    # Session settings
+    php_value session.cookie_httponly 1
+    php_value session.cookie_secure 1
+    
+    # Error reporting (disable in production)
+    php_flag display_errors Off
+    php_flag display_startup_errors Off
+</IfModule>
+
+# Protect sensitive files
+<FilesMatch "(^#.*#|\.(bak|conf|dist|fla|in[ci]|log|psd|sh|sql|sw[op])|~)$">
+    # Apache 2.4
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    
+    # Apache 2.2
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>
+
+# Protect .htaccess
+<Files .htaccess>
+    # Apache 2.4
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    
+    # Apache 2.2
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</Files>
+
+# Protect config.php
+<Files config.php>
+    # Apache 2.4
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    
+    # Apache 2.2
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</Files>
+
+# Error Pages
+ErrorDocument 404 /edukid/404.php
+ErrorDocument 403 /edukid/404.php
+
+# MIME Types
+<IfModule mod_mime.c>
+    # Audio
+    AddType audio/mp4 m4a f4a f4b
+    AddType audio/ogg oga ogg
+    
+    # JavaScript
+    AddType application/javascript js jsonp
+    AddType application/json json
+    
+    # Video
+    AddType video/mp4 mp4 m4v f4v f4p
+    AddType video/ogg ogv
+    AddType video/webm webm
+    
+    # Web fonts
+    AddType application/font-woff woff
+    AddType application/font-woff2 woff2
+    AddType application/vnd.ms-fontobject eot
+    AddType font/ttf ttf
+    AddType font/otf otf
+    
+    # Images
+    AddType image/svg+xml svg svgz
+    AddType image/webp webp
+</IfModule>

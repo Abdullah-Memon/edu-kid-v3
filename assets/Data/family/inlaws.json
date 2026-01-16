@@ -1,0 +1,102 @@
+{
+  "title": "ساھُرا - In-laws",
+  "icon": "🏠",
+  "members": [
+    {
+      "sindhi": "سَھرو",
+      "english": "Father-in-law",
+      "type": "male",
+      "icon": "👨"
+    },
+    {
+      "sindhi": "سَسُ",
+      "english": "Mother-in-law",
+      "type": "female",
+      "icon": "👩"
+    },
+    {
+      "sindhi": "ڏيرُ",
+      "english": "Husband's brother",
+      "type": "male",
+      "icon": "👨"
+    },
+    {
+      "sindhi": "ڏيرياڻي",
+      "english": "Husband's brother's wife",
+      "type": "female",
+      "icon": "👩"
+    },
+    {
+      "sindhi": "ڏيروٽُ",
+      "english": "Husband's elder brother",
+      "type": "male",
+      "icon": "👨"
+    },
+    {
+      "sindhi": "ڏيروٽِ",
+      "english": "Husband's elder brother's wife",
+      "type": "female",
+      "icon": "👩"
+    },
+    {
+      "sindhi": "نِڻانَ",
+      "english": "Husband's sister",
+      "type": "female",
+      "icon": "👩"
+    },
+    {
+      "sindhi": "نيڻوٽُ",
+      "english": "Husband's sister's husband",
+      "type": "male",
+      "icon": "👨"
+    },
+    {
+      "sindhi": "نُنھُن",
+      "english": "Daughter-in-law",
+      "type": "female",
+      "icon": "👩"
+    },
+    {
+      "sindhi": "نِياڻو",
+      "english": "Son-in-law",
+      "type": "male",
+      "icon": "👨"
+    },
+    {
+      "sindhi": "نيڻوٽِ",
+      "english": "Husband's sister",
+      "type": "female",
+      "icon": "👩"
+    },
+    {
+      "sindhi": "نيڻوٽِياڻو",
+      "english": "Husband's sister's husband",
+      "type": "male",
+      "icon": "👨"
+    },
+    {
+      "sindhi": "ڏيروٽياڻي",
+      "english": "Husband's brother's wife (elder)",
+      "type": "female",
+      "icon": "👩"
+    },
+    {
+      "sindhi": "ڏيروٽياڻو",
+      "english": "Husband's brother (elder)",
+      "type": "male",
+      "icon": "👨"
+    },
+    {
+      "sindhi": "نيڻوٽِياڻِي",
+      "english": "Husband's sister's wife",
+      "type": "female",
+      "icon": "👩"
+    },
+    {
+      "sindhi": "سنڍُو",
+      "english": "Wife's sister's husband",
+      "type": "male",
+      "icon": "👨"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "activities": [
+    {
+      "id": "letterRecognition",
+      "title": "َاکر سڃاڻ",
+      "subtitle": "راند جيان اکر سڇاڻيو!",
+      "emoji": "🔤",
+      "color": "from-pink-400 to-purple-500",
+      "description": "اچو تہ کيڏون"
+    },
+    {
+      "id": "wordBuilding",
+      "title": "لفظ سڇاڻ",
+      "subtitle": "شڪل ڏسي لفظ ٺاھيو!",
+      "emoji": "🔠",
+      "color": "from-blue-400 to-cyan-500",
+      "description": "اچو تہ الر مِلايوُن"
+    },
+    {
+      "id": "vocabularyBuilding",
+      "title": "لفظن جو خزانو",
+      "subtitle": "شڪليون ۽ نالا!",
+      "emoji": "📚",
+      "color": "from-green-400 to-emerald-500",
+      "description": "روزانو استعمال ٿيندڙ لفظ سکو"
+    },
+    {
+      "id": "writingPractice",
+      "title": "لکڻ جي مشق",
+      "subtitle": "اکر ڪيئن لکجن",
+      "emoji": "✍️",
+      "color": "from-yellow-400 to-orange-500",
+      "description": "اچو تہ لکڻ سکون"
+    },
+    {
+      "id": "readingPractice",
+      "title": "پڙهڻ جي مشق",
+      "subtitle": "لفظن جي ترتيب!",
+      "emoji": "📖",
+      "color": "from-orange-400 to-red-500",
+      "description": "اچو تہ جُملا سِکون"
+    },
+    {
+      "id": "grammarPractice",
+      "title": "گرامر جي سِکيا",
+      "subtitle": "گرامر جا بنيادي اصول!",
+      "emoji": "📝",
+      "color": "from-purple-400 to-pink-500",
+      "description": "اچو تہ گرامر سکون"
+    }
+  ]
+}

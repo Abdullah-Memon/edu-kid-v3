@@ -1,0 +1,66 @@
+[
+    {
+        "category": "Numbers",
+        "icon": "🔢",
+        "words": [
+            {"english": "One", "sindhi": "هڪ", "pronunciation": "Hik"},
+            {"english": "Two", "sindhi": "ٻه", "pronunciation": "Be"},
+            {"english": "Three", "sindhi": "ٽي", "pronunciation": "Te"},
+            {"english": "Four", "sindhi": "چار", "pronunciation": "Char"},
+            {"english": "Five", "sindhi": "پنج", "pronunciation": "Panj"},
+            {"english": "Six", "sindhi": "ڇهه", "pronunciation": "Chha"},
+            {"english": "Seven", "sindhi": "ست", "pronunciation": "Satt"},
+            {"english": "Eight", "sindhi": "اٺ", "pronunciation": "Atth"},
+            {"english": "Nine", "sindhi": "نو", "pronunciation": "Nao"},
+            {"english": "Ten", "sindhi": "ڏهه", "pronunciation": "Dah"}
+        ]
+    },
+    {
+        "category": "Colors",
+        "icon": "🎨",
+        "words": [
+            {"english": "Red", "sindhi": "ڳاڙهو", "pronunciation": "Gaadho"},
+            {"english": "Blue", "sindhi": "نيرو", "pronunciation": "Neero"},
+            {"english": "Green", "sindhi": "سائو", "pronunciation": "Saayo"},
+            {"english": "Yellow", "sindhi": "پيلو", "pronunciation": "Peelo"},
+            {"english": "White", "sindhi": "اڇو", "pronunciation": "Ucho"},
+            {"english": "Black", "sindhi": "ڪارو", "pronunciation": "Kaaro"}
+        ]
+    },
+    {
+        "category": "Family",
+        "icon": "👨‍👩‍👧‍👦",
+        "words": [
+            {"english": "Father", "sindhi": "پيءُ", "pronunciation": "Piyu"},
+            {"english": "Mother", "sindhi": "ماءُ", "pronunciation": "Maau"},
+            {"english": "Brother", "sindhi": "ڀاءُ", "pronunciation": "Bhaayu"},
+            {"english": "Sister", "sindhi": "ڀيڻ", "pronunciation": "Bhain"},
+            {"english": "Grandfather", "sindhi": "ڏاڏو", "pronunciation": "Daado"},
+            {"english": "Grandmother", "sindhi": "ڏاڏي", "pronunciation": "Daadi"}
+        ]
+    },
+    {
+        "category": "Animals",
+        "icon": "🦁",
+        "words": [
+            {"english": "Cat", "sindhi": "ٻلي", "pronunciation": "Billi"},
+            {"english": "Dog", "sindhi": "ڪتو", "pronunciation": "Kutto"},
+            {"english": "Cow", "sindhi": "ڳئو", "pronunciation": "Gaayo"},
+            {"english": "Horse", "sindhi": "گھوڙو", "pronunciation": "Ghodo"},
+            {"english": "Elephant", "sindhi": "هاٿي", "pronunciation": "Haathi"},
+            {"english": "Lion", "sindhi": "شينهن", "pronunciation": "Shainhan"}
+        ]
+    },
+    {
+        "category": "Food",
+        "icon": "🍽️",
+        "words": [
+            {"english": "Bread", "sindhi": "ماني", "pronunciation": "Maani"},
+            {"english": "Rice", "sindhi": "چانور", "pronunciation": "Chanwar"},
+            {"english": "Water", "sindhi": "پاڻي", "pronunciation": "Paani"},
+            {"english": "Milk", "sindhi": "کير", "pronunciation": "Kheer"},
+            {"english": "Tea", "sindhi": "چانهه", "pronunciation": "Chaanhay"},
+            {"english": "Food", "sindhi": "کاڌو", "pronunciation": "Khaadho"}
+        ]
+    }
+]

@@ -1,0 +1,138 @@
+{
+  "title": "گھر وارا - Immediate Family",
+  "icon": "👨‍👩‍👧‍👦",
+  "categories": [
+    {
+      "title": "ڀائر ڀيڻر - Siblings & Their Spouses",
+      "icon": "👫",
+      "members": [
+        {
+          "sindhi": "ڄيٺُ",
+          "english": "Elder brother",
+          "type": "male",
+          "icon": "👨"
+        },
+        {
+          "sindhi": "ڄيٺِياڻِي",
+          "english": "Elder brother's wife",
+          "type": "female",
+          "icon": "👩"
+        },
+        {
+          "sindhi": "ڀاءُ",
+          "english": "Brother",
+          "type": "male",
+          "icon": "👦"
+        },
+        {
+          "sindhi": "ڀيڻ",
+          "english": "Sister",
+          "type": "female",
+          "icon": "👧"
+        },
+        {
+          "sindhi": "ڀيڻيويو",
+          "english": "Sister's husband",
+          "type": "male",
+          "icon": "👨"
+        },
+        {
+          "sindhi": "ڀاڄائي",
+          "english": "Brother's wife",
+          "type": "female",
+          "icon": "👩"
+        },
+        {
+          "sindhi": "ڄيٺوٽُ",
+          "english": "Brother (formal)",
+          "type": "male",
+          "icon": "👨"
+        },
+        {
+          "sindhi": "ڄيٺوٽِ",
+          "english": "Sister-in-law",
+          "type": "female",
+          "icon": "👩"
+        },
+        {
+          "sindhi": "ڄيٺوٽِياڻِي",
+          "english": "Brother-in-law's wife",
+          "type": "female",
+          "icon": "👩"
+        },
+        {
+          "sindhi": "ڄيٺوٽِياڻو",
+          "english": "Brother-in-law",
+          "type": "male",
+          "icon": "👨"
+        }
+      ]
+    },
+    {
+      "title": "پاڻ ۽ زال مڙس - Self & Spouse",
+      "icon": "💑",
+      "members": [
+        {
+          "sindhi": "مڙس",
+          "english": "Husband",
+          "type": "male",
+          "icon": "🤵"
+        },
+        {
+          "sindhi": "زال",
+          "english": "Wife",
+          "type": "female",
+          "icon": "👰"
+        },
+        {
+          "sindhi": "سالو",
+          "english": "Brother-in-law",
+          "type": "male",
+          "icon": "👨"
+        },
+        {
+          "sindhi": "سالِي",
+          "english": "Sister-in-law",
+          "type": "female",
+          "icon": "👩"
+        },
+        {
+          "sindhi": "سوکڻِ",
+          "english": "Co-wife",
+          "type": "female",
+          "icon": "👩"
+        },
+        {
+          "sindhi": "سنٻنڌي",
+          "english": "Husband's sister",
+          "type": "female",
+          "icon": "👩"
+        },
+        {
+          "sindhi": "سنٻنڌياڻِي",
+          "english": "Husband of husband's sister",
+          "type": "male",
+          "icon": "👨"
+        }
+      ]
+    },
+    {
+      "title": "اولاد - Children",
+      "icon": "👶",
+      "members": [
+        {
+          "sindhi": "پُٽُ",
+          "english": "Son",
+          "type": "male",
+          "icon": "👦"
+        },
+        {
+          "sindhi": "ڌِيءُ",
+          "english": "Daughter",
+          "type": "female",
+          "icon": "👧"
+        }
+      ]
+    }
+  ]
+}

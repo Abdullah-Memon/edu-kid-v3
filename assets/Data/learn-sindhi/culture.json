@@ -1,0 +1,94 @@
+{
+    "poets": [
+        {
+            "name": "Shah Abdul Latif Bhittai",
+            "period": "1689-1752",
+            "contribution": "Greatest Sindhi poet, author of Shah Jo Risalo",
+            "significance": "His poetry promotes love, peace, and spiritual wisdom"
+        },
+        {
+            "name": "Sachal Sarmast",
+            "period": "1739-1829",
+            "contribution": "Sufi poet and mystic",
+            "significance": "Known for poetry in multiple languages promoting unity"
+        }
+    ],
+    "food": [
+        {
+            "name": "Sindhi Biryani",
+            "sindhi": "سنڌي بريانيءِ",
+            "description": "Spicy rice dish with meat, potatoes, and special masala",
+            "icon": "🍛"
+        },
+        {
+            "name": "Sai Bhaji",
+            "sindhi": "سائي ڀاجي",
+            "description": "Spinach curry cooked with vegetables and lentils",
+            "icon": "🥬"
+        },
+        {
+            "name": "Koki",
+            "sindhi": "ڪوڪي",
+            "description": "Flatbread made with wheat flour and spices",
+            "icon": "🫓"
+        }
+    ],
+    "festivals": [
+        {
+            "name": "Eid-ul-Fitr",
+            "sindhi": "عيد الفطر",
+            "description": "Celebration marking the end of Ramadan",
+            "icon": "🌙"
+        },
+        {
+            "name": "Eid-ul-Adha",
+            "sindhi": "عيد الاضحيٰ",
+            "description": "Festival of sacrifice",
+            "icon": "🐑"
+        }
+    ],
+    "habits": [
+        {
+            "title": "Morning Prayer",
+            "english": "Start your day with prayer",
+            "sindhi": "پنهنجو ڏينهن دعا سان شروع ڪريو",
+            "pronunciation": "Punhjo deenah dua saan shuru kario",
+            "icon": "🤲"
+        },
+        {
+            "title": "Respect Elders",
+            "english": "Always respect your elders",
+            "sindhi": "هميشه پنهنجي وڏن جو احترام ڪريو",
+            "pronunciation": "Hamesha punhinji wadon jo ihtiraam kario",
+            "icon": "🙏"
+        },
+        {
+            "title": "Help Others",
+            "english": "Help those in need",
+            "sindhi": "ضرورتمندن جي مدد ڪريو",
+            "pronunciation": "Zaruratmandn ji madad kario",
+            "icon": "🤝"
+        },
+        {
+            "title": "Study Daily",
+            "english": "Study every day",
+            "sindhi": "روزانو پڙهو",
+            "pronunciation": "Rozaano padho",
+            "icon": "📚"
+        },
+        {
+            "title": "Keep Clean",
+            "english": "Keep yourself and surroundings clean",
+            "sindhi": "پاڻ کي ۽ چوڌاري کي صاف رکو",
+            "pronunciation": "Paan khe ain chaudhary khe saaf rakho",
+            "icon": "🧹"
+        },
+        {
+            "title": "Be Honest",
+            "english": "Always tell the truth",
+            "sindhi": "هميشه سچ ڳالهايو",
+            "pronunciation": "Hamesha sach gaalhaayo",
+            "icon": "💎"
+        }
+    ]
+}

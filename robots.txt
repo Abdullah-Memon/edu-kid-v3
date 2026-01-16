@@ -1,0 +1,8 @@
+# robots.txt for edukid-v3.sindh.ai (Development Environment)
+# This file prevents search engines from indexing the development site
+
+User-agent: *
+Disallow: /
+
+# Disallow all search engines from crawling any part of the site
+# This is a development/staging environment and should not be indexed

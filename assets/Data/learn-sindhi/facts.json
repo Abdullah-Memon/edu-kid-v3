@@ -1,0 +1,55 @@
+[
+    {
+        "category": "Language",
+        "icon": "🗣️",
+        "facts": [
+            {
+                "english": "Sindhi is written from right to left",
+                "sindhi": "سنڌي ساڄي کان کاٻي پاسي لکيو ويندو آهي",
+                "pronunciation": "Sindhi saaje kaan kaabe paase likhyo wendho aahe"
+            },
+            {
+                "english": "Sindhi has 52 letters in its alphabet",
+                "sindhi": "سنڌي الف بي ۾ 52 اکر آهن",
+                "pronunciation": "Sindhi alif-be mein 52 akhar aahan"
+            },
+            {
+                "english": "Sindhi is one of the oldest languages in the world",
+                "sindhi": "سنڌي دنيا جي قديم ترين ٻولين مان هڪ آهي",
+                "pronunciation": "Sindhi duniya ji qadeem tarin bolyin maan hik aahe"
+            }
+        ]
+    },
+    {
+        "category": "Culture",
+        "icon": "🎭",
+        "facts": [
+            {
+                "english": "Ajrak is a traditional Sindhi cloth",
+                "sindhi": "اجرڪ هڪ روايتي سنڌي ڪپڙو آهي",
+                "pronunciation": "Ajrak hik riwayati Sindhi kapdo aahe"
+            },
+            {
+                "english": "Sindhi cap is called 'Sindhi Topi'",
+                "sindhi": "سنڌي ٽوپي کي 'سنڌي ٽوپي' چيو ويندو آهي",
+                "pronunciation": "Sindhi topi khe 'Sindhi topi' chiyo wendho aahe"
+            }
+        ]
+    },
+    {
+        "category": "History",
+        "icon": "📜",
+        "facts": [
+            {
+                "english": "Sindh has a rich heritage dating back 5000 years",
+                "sindhi": "سنڌ جي 5000 سالن جي تاريخ آهي",
+                "pronunciation": "Sindh ji 5000 saaln ji taareekh aahe"
+            },
+            {
+                "english": "Mohenjo-daro is located in Sindh",
+                "sindhi": "موئن جو دڙو سنڌ ۾ واقع آهي",
+                "pronunciation": "Mohenjo-daro Sindh mein waqi aahe"
+            }
+        ]
+    }
+]

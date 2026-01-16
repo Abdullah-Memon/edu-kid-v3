@@ -1,0 +1,82 @@
+[
+    {
+        "category": "Greetings",
+        "phrases": [
+            {
+                "english": "Hello",
+                "sindhi": "السلام عليڪم",
+                "pronunciation": "As-salaam-alaikum"
+            },
+            {
+                "english": "Good morning",
+                "sindhi": "صبح جو سلام",
+                "pronunciation": "Subah jo salaam"
+            },
+            {
+                "english": "Good evening",
+                "sindhi": "شام جو سلام",
+                "pronunciation": "Shaam jo salaam"
+            },
+            {
+                "english": "How are you?",
+                "sindhi": "توهان ڪيئن آهيو؟",
+                "pronunciation": "Tawhan kiyan aahyo?"
+            },
+            {
+                "english": "I'm fine, thank you",
+                "sindhi": "مان ٺيڪ آهيان، مهرباني",
+                "pronunciation": "Maan theek aahyan, meherbani"
+            }
+        ]
+    },
+    {
+        "category": "Basic Phrases",
+        "phrases": [
+            {
+                "english": "Thank you",
+                "sindhi": "مهرباني",
+                "pronunciation": "Meherbani"
+            },
+            {
+                "english": "You're welcome",
+                "sindhi": "خوش آمديد",
+                "pronunciation": "Khush aamdeed"
+            },
+            {
+                "english": "Please",
+                "sindhi": "مهرباني ڪري",
+                "pronunciation": "Meherbani kari"
+            },
+            {
+                "english": "Excuse me",
+                "sindhi": "معاف ڪجو",
+                "pronunciation": "Maaf kijo"
+            },
+            {
+                "english": "I don't understand",
+                "sindhi": "مون کي سمجهه ۾ نه ٿو اچي",
+                "pronunciation": "Munh khe samajh mein na tho achi"
+            }
+        ]
+    },
+    {
+        "category": "Questions",
+        "phrases": [
+            {
+                "english": "What is your name?",
+                "sindhi": "توهان جو نالو ڇا آهي؟",
+                "pronunciation": "Tawhan jo naalo cha aahe?"
+            },
+            {
+                "english": "Where are you from?",
+                "sindhi": "توهان ڪٿان کان آهيو؟",
+                "pronunciation": "Tawhan kuthan kaan aahyo?"
+            },
+            {
+                "english": "How old are you?",
+                "sindhi": "توهان جي عمر ڪيتري آهي؟",
+                "pronunciation": "Tawhan ji umar ketri aahe?"
+            }
+        ]
+    }
+]

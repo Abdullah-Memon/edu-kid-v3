@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "question": "Which letter makes the sound 'Alif'?",
+        "questionUrdu": "ڪھڙو اکر 'اَلِف' آواز ڪري ٿو؟",
+        "options": ["ا", "ب", "ت", "ث"],
+        "correctAnswer": 0,
+        "audio": "letter_01.wav"
+    },
+    {
+        "id": 2,
+        "question": "What comes after 'ا'?",
+        "questionUrdu": "'ا' کان پوءِ ڪھڙو اکر اچي ٿو؟",
+        "options": ["ت", "ب", "ث", "ج"],
+        "correctAnswer": 1,
+        "audio": "letter_02.wav"
+    },
+    {
+        "id": 3,
+        "question": "Which letter is this: 'Je'?",
+        "questionUrdu": "ھي ڪھڙو اکر آھي: 'جي'؟",
+        "options": ["ث", "ت", "ب", "ج"],
+        "correctAnswer": 3,
+        "audio": "letter_05.wav"
+    },
+    {
+        "id": 4,
+        "question": "How many letters are in Sindhi alphabet?",
+        "questionUrdu": "سنڌي الف-ب ۾ ڪيترا اکر آھن؟",
+        "options": ["26", "42", "52", "60"],
+        "correctAnswer": 2
+    },
+    {
+        "id": 5,
+        "question": "Which letter makes 'Tha' sound?",
+        "questionUrdu": "ڪھڙو اکر 'ٿ' آواز ڪري ٿو؟",
+        "options": ["ت", "ث", "ٿ", "ٽ"],
+        "correctAnswer": 2,
+        "audio": "letter_04.wav"
+    },
+    {
+        "id": 6,
+        "question": "Find the letter 'Khe':",
+        "questionUrdu": "'خي' اکر ڳوليو:",
+        "options": ["ح", "خ", "ج", "چ"],
+        "correctAnswer": 1,
+        "audio": "letter_07.wav"
+    },
+    {
+        "id": 7,
+        "question": "Which is the first letter?",
+        "questionUrdu": "پھريون اکر ڪھڙو آھي؟",
+        "options": ["ب", "ا", "ت", "پ"],
+        "correctAnswer": 1,
+        "audio": "letter_01.wav"
+    },
+    {
+        "id": 8,
+        "question": "Which letter is 'Noon'?",
+        "questionUrdu": "'نون' ڪھڙو اکر آھي؟",
+        "options": ["م", "ن", "ل", "ڻ"],
+        "correctAnswer": 1,
+        "audio": "letter_25.wav"
+    },
+    {
+        "id": 9,
+        "question": "Find the letter 'Re':",
+        "questionUrdu": "'ري' اکر ڳوليو:",
+        "options": ["ر", "ز", "ڙ", "ڊ"],
+        "correctAnswer": 0,
+        "audio": "letter_13.wav"
+    },
+    {
+        "id": 10,
+        "question": "Which letter comes before 'ب'?",
+        "questionUrdu": "'ب' کان اڳ ڪھڙو اکر اچي ٿو؟",
+        "options": ["ا", "ت", "ث", "ج"],
+        "correctAnswer": 0,
+        "audio": "letter_01.wav"
+    },
+    {
+        "id": 11,
+        "question": "Which is a special Sindhi letter not in Urdu?",
+        "questionUrdu": "ڪھڙو خاص سنڌي اکر آھي جيڪو اردو ۾ نه آھي؟",
+        "options": ["ب", "ڀ", "ت", "ن"],
+        "correctAnswer": 1,
+        "audio": "letter_03.wav"
+    },
+    {
+        "id": 12,
+        "question": "How do we write Sindhi?",
+        "questionUrdu": "اسان سنڌي ڪيئن لکون ٿا؟",
+        "options": ["Left to Right", "Right to Left", "Top to Bottom", "Bottom to Top"],
+        "correctAnswer": 1
+    },
+    {
+        "id": 13,
+        "question": "Which letter is 'Ghaaf'?",
+        "questionUrdu": "'غاف' ڪھڙو اکر آھي؟",
+        "options": ["غ", "ع", "ف", "ق"],
+        "correctAnswer": 0,
+        "audio": "letter_20.wav"
+    },
+    {
+        "id": 14,
+        "question": "Find the letter 'Meem':",
+        "questionUrdu": "'ميم' اکر ڳوليو:",
+        "options": ["ن", "م", "ل", "ڻ"],
+        "correctAnswer": 1,
+        "audio": "letter_24.wav"
+    },
+    {
+        "id": 15,
+        "question": "Which letter is 'Kaaf'?",
+        "questionUrdu": "'ڪاف' ڪھڙو اکر آھي؟",
+        "options": ["ق", "ڪ", "ک", "گ"],
+        "correctAnswer": 1,
+        "audio": "letter_22.wav"
+    }
+]

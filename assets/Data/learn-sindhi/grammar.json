@@ -1,0 +1,46 @@
+{
+    "pronouns": [
+        {
+            "type": "Singular",
+            "items": [
+                {"english": "I", "sindhi": "مان", "pronunciation": "Maan"},
+                {"english": "You", "sindhi": "تون", "pronunciation": "Too"},
+                {"english": "He/She", "sindhi": "هو", "pronunciation": "Hoo"}
+            ]
+        },
+        {
+            "type": "Plural",
+            "items": [
+                {"english": "We", "sindhi": "اسان", "pronunciation": "Asaan"},
+                {"english": "You (plural)", "sindhi": "توهان", "pronunciation": "Tawhan"},
+                {"english": "They", "sindhi": "هنن", "pronunciation": "Hunan"}
+            ]
+        }
+    ],
+    "verbs": {
+        "present": [
+            {"english": "To be", "sindhi": "آهڻ", "pronunciation": "Aahan"},
+            {"english": "To go", "sindhi": "وڃڻ", "pronunciation": "Wiján"},
+            {"english": "To come", "sindhi": "اچڻ", "pronunciation": "Achán"},
+            {"english": "To eat", "sindhi": "کائڻ", "pronunciation": "Khaan"},
+            {"english": "To drink", "sindhi": "پيئڻ", "pronunciation": "Peen"}
+        ]
+    },
+    "sentences": [
+        {
+            "english": "I am a student",
+            "sindhi": "مان هڪ شاگرد آهيان",
+            "pronunciation": "Maan hik shaagird aahyan"
+        },
+        {
+            "english": "You are my friend",
+            "sindhi": "تون منهنجو دوست آهين",
+            "pronunciation": "Too munhinjo dost aahin"
+        },
+        {
+            "english": "This is a book",
+            "sindhi": "هي هڪ ڪتاب آهي",
+            "pronunciation": "Hee hik kitaab aahe"
+        }
+    ]
+}

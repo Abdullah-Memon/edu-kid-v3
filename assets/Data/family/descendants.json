@@ -1,0 +1,130 @@
+{
+  "title": "اولاد جي اولاد - Descendants",
+  "icon": "🌱",
+  "generations": [
+    {
+      "title": "ڀاڻيجا - Nephews and Nieces",
+      "level": 1,
+      "icon": "👦👧",
+      "members": [
+        {
+          "sindhi": "ڀائٽيو",
+          "english": "Brother's son (nephew)",
+          "type": "male",
+          "icon": "👦"
+        },
+        {
+          "sindhi": "ڀائٽيي",
+          "english": "Brother's daughter (niece)",
+          "type": "female",
+          "icon": "👧"
+        },
+        {
+          "sindhi": "ڀاڻيجو",
+          "english": "Sister's son (nephew)",
+          "type": "male",
+          "icon": "👦"
+        },
+        {
+          "sindhi": "ڀاڻيجي",
+          "english": "Sister's daughter (niece)",
+          "type": "female",
+          "icon": "👧"
+        }
+      ]
+    },
+    {
+      "title": "پوٽا ڏوھٽا - Grandchildren",
+      "level": 2,
+      "icon": "👶",
+      "members": [
+        {
+          "sindhi": "پوٽو",
+          "english": "Son's son (grandson)",
+          "type": "male",
+          "icon": "👦"
+        },
+        {
+          "sindhi": "پوٽِي",
+          "english": "Son's daughter (granddaughter)",
+          "type": "female",
+          "icon": "👧"
+        },
+        {
+          "sindhi": "ڏوھٽو",
+          "english": "Daughter's son (grandson)",
+          "type": "male",
+          "icon": "👦"
+        },
+        {
+          "sindhi": "ڏوھٽِي",
+          "english": "Daughter's daughter (granddaughter)",
+          "type": "female",
+          "icon": "👧"
+        }
+      ]
+    },
+    {
+      "title": "پڙپوٽا پڙڏوھٽا - Great Grandchildren",
+      "level": 3,
+      "icon": "👶",
+      "members": [
+        {
+          "sindhi": "پڙپوٽو",
+          "english": "Son's grandson (great grandson)",
+          "type": "male",
+          "icon": "👶"
+        },
+        {
+          "sindhi": "پڙپوٽِي",
+          "english": "Son's granddaughter (great granddaughter)",
+          "type": "female",
+          "icon": "👶"
+        },
+        {
+          "sindhi": "پڙڏوھٽو",
+          "english": "Daughter's grandson (great grandson)",
+          "type": "male",
+          "icon": "👶"
+        },
+        {
+          "sindhi": "پڙڏوھٽِي",
+          "english": "Daughter's granddaughter (great granddaughter)",
+          "type": "female",
+          "icon": "👶"
+        }
+      ]
+    },
+    {
+      "title": "تڙپوٽا تڙڏوھٽا - Great Great Grandchildren",
+      "level": 4,
+      "icon": "👶",
+      "members": [
+        {
+          "sindhi": "تڙپوٽو",
+          "english": "Great grandson's son (great great grandson)",
+          "type": "male",
+          "icon": "👶"
+        },
+        {
+          "sindhi": "تڙپوٽِي",
+          "english": "Great grandson's daughter (great great granddaughter)",
+          "type": "female",
+          "icon": "👶"
+        },
+        {
+          "sindhi": "تڙڏوھٽو",
+          "english": "Great granddaughter's son (great great grandson)",
+          "type": "male",
+          "icon": "👶"
+        },
+        {
+          "sindhi": "تڙڏوھٽِي",
+          "english": "Great granddaughter's daughter (great great granddaughter)",
+          "type": "female",
+          "icon": "👶"
+        }
+      ]
+    }
+  ]
+}

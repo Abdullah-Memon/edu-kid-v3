@@ -1,0 +1,120 @@
+{
+  "title": "پيءُ جو خاندان - Paternal Lineage",
+  "icon": "🏛️",
+  "generations": [
+    {
+      "title": "تڙڏاڏا تڙڏاڏي - Great Great Grandparents (Paternal)",
+      "level": 4,
+      "members": [
+        {
+          "sindhi": "تڙڏاڏو",
+          "english": "Great great grandfather (paternal)",
+          "type": "male",
+          "icon": "👴"
+        },
+        {
+          "sindhi": "تڙڏاڏِي",
+          "english": "Great great grandmother (paternal)",
+          "type": "female",
+          "icon": "👵"
+        }
+      ]
+    },
+    {
+      "title": "پڙڏاڏا پڙڏاڏي - Great Grandparents (Paternal)",
+      "level": 3,
+      "members": [
+        {
+          "sindhi": "پڙڏاڏو",
+          "english": "Great grandfather (paternal)",
+          "type": "male",
+          "icon": "👴"
+        },
+        {
+          "sindhi": "پڙڏاڏِي",
+          "english": "Great grandmother (paternal)",
+          "type": "female",
+          "icon": "👵"
+        }
+      ]
+    },
+    {
+      "title": "ڏاڏا ڏاڏي - Grandparents (Paternal)",
+      "level": 2,
+      "members": [
+        {
+          "sindhi": "ڏاڏو",
+          "english": "Grandfather (paternal)",
+          "type": "male",
+          "icon": "👴"
+        },
+        {
+          "sindhi": "ڏاڏِي",
+          "english": "Grandmother (paternal)",
+          "type": "female",
+          "icon": "👵"
+        }
+      ]
+    },
+    {
+      "title": "پيءُ ۽ چاچا چاچي - Father & Paternal Aunts & Uncles",
+      "level": 1,
+      "members": [
+        {
+          "sindhi": "پِيءُ",
+          "english": "Father",
+          "type": "male",
+          "icon": "👨"
+        },
+        {
+          "sindhi": "چاچو",
+          "english": "Paternal uncle",
+          "type": "male",
+          "icon": "👨"
+        },
+        {
+          "sindhi": "چاچِي",
+          "english": "Paternal aunt (uncle's wife)",
+          "type": "female",
+          "icon": "👩"
+        },
+        {
+          "sindhi": "سئوٹُ",
+          "english": "Father's brother",
+          "type": "male",
+          "icon": "👨"
+        },
+        {
+          "sindhi": "سئوٹِ",
+          "english": "Father's brother's wife",
+          "type": "female",
+          "icon": "👩"
+        },
+        {
+          "sindhi": "پُڦِي",
+          "english": "Paternal aunt",
+          "type": "female",
+          "icon": "👩"
+        },
+        {
+          "sindhi": "پُڦڙُ",
+          "english": "Paternal aunt's husband",
+          "type": "male",
+          "icon": "👨"
+        },
+        {
+          "sindhi": "پڦاٽُ",
+          "english": "Father's sister",
+          "type": "female",
+          "icon": "👩"
+        },
+        {
+          "sindhi": "پڦاٽِ",
+          "english": "Father's sister's husband",
+          "type": "male",
+          "icon": "👨"
+        }
+      ]
+    }
+  ]
+}
