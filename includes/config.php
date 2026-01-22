@@ -8,7 +8,7 @@
 // ENVIRONMENT CONFIGURATION
 // ============================================
 // Options: 'prod', 'dev', 'local'
-define('ENVIRONMENT', 'local'); // Change to 'prod' for production
+define('ENVIRONMENT', 'prod'); // Change to 'prod' for production
 
 // Base URL Configuration based on environment
 if (ENVIRONMENT === 'prod') {
